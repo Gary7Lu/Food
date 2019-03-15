@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<h0> 歡迎來到美食推薦網站 </h0>
 
-You can use the [editor on GitHub](https://github.com/Gary7Lu/Food/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>    Breakfast   </h1>
 
-### Markdown
+<img id="comp-ja6kq5fb3imgimage" style="object-position: 50% 50%; width: 560px; height: 280px; object-fit: cover;" alt="Couple in a Kitchen" data-type="image" src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" tilte="click"></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h1>   Dinner & Lunch  </h1>
+<img id="comp-ja6kq5fb1imgimage" alt="Outside Dinner" data-type="image" src="https://static.wixstatic.com/media/3053efb8cad14b2188b48df41aa303cf.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Outside%20Dinner.webp" style="width: 560px; height: 280px; object-fit: cover;">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h1>      Dessert      </h1>
+<img id="comp-ja6kq5fbimgimage" alt="Making Chocolates" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" style="width: 560px; height: 280px; object-fit: cover;">
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1>  美食網站 相關連結  </h1>
 
-### Jekyll Themes
+<p> 
+  Twitter </p>
+<a href="https://twitter.com/twitterfood"> <img id="comp-imw36oii1imageimageimage" alt="Twitter Social Icon" data-type="image" src="https://static.wixstatic.com/media/9c4b521dd2404cd5a05ed6115f3a0dc8.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/9c4b521dd2404cd5a05ed6115f3a0dc8.webp"     style="width: 24px; height: 24px; object-fit: cover;"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gary7Lu/Food/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<p>
+  Instrgram</p>
+
+<a href ="https://www.instagram.com/love_food/"> <img id="comp-imw36oii0imageimageimage" alt="Instagram Social Icon" data-type="image" src="https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/8d6893330740455c96d218258a458aa4.webp" style="width: 24px; height: 24px; object-fit: cover;"></a>
+
+
+
+
+<p>Note that there are some photo from <a href="https://www.wix.com/">wix</a></p>
+
