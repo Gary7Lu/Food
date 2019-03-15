@@ -1,24 +1,32 @@
 <h0> 歡迎來到美食推薦網站 </h0>
 
 
-<h1>    Breakfast   </h1>
+<h1>    
+  
+  Breakfast   </h1>
 
 <img id="comp-ja6kq5fb3imgimage" style="object-position: 50% 50%; width: 560px; height: 280px; object-fit: cover;" alt="Couple in a Kitchen" data-type="image" src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" tilte="click"></a>
 
 
 
-<h1>   Dinner & Lunch  </h1>
+<h1>   
+  
+  Dinner & Lunch  </h1>
 <img id="comp-ja6kq5fb1imgimage" alt="Outside Dinner" data-type="image" src="https://static.wixstatic.com/media/3053efb8cad14b2188b48df41aa303cf.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Outside%20Dinner.webp" style="width: 560px; height: 280px; object-fit: cover;">
 
 
 
-<h1>      Dessert      </h1>
+<h1>      
+  
+  Dessert      </h1>
 <img id="comp-ja6kq5fbimgimage" alt="Making Chocolates" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" style="width: 560px; height: 280px; object-fit: cover;">
 
 
-<h1>  美食網站 相關連結  </h1>
+<h1>  
+  美食網站 相關連結  </h1>
 
 <p> 
+  
   Twitter </p>
 <a href="https://twitter.com/twitterfood"> <img id="comp-imw36oii1imageimageimage" alt="Twitter Social Icon" data-type="image" src="https://static.wixstatic.com/media/9c4b521dd2404cd5a05ed6115f3a0dc8.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/9c4b521dd2404cd5a05ed6115f3a0dc8.webp"     style="width: 24px; height: 24px; object-fit: cover;"></a>
 
