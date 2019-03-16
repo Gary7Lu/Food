@@ -20,8 +20,8 @@
   <img id="comp-ja6kq5fbimgimage" style="width: 560px; height: 280px;" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" title="了解更多..."></a>
 
 
- <!-- 01 -->
- <!-- 01 -->
+<!-- 01 -->
+<!-- 01 -->
 <h2>    美食網站 相關連結  </h2>
 
 <!--00-->
@@ -36,7 +36,7 @@
  <img id="comp-imw36oii0imageimageimage" alt="Instagram Social Icon" data-type="image" src="https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/8d6893330740455c96d218258a458aa4.webp" style="width: 24px; height: 24px; "></a>
 
 
-
-
+<!--00-->
+<!--00-->
 <p>Note that there are some photo from <a href="https://www.wix.com/">wix</a></p>
 
