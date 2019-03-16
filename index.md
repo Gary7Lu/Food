@@ -1,4 +1,11 @@
 <html>
+ 
+<style>
+ .white-background{
+background-color:#F0FFFF
+}
+</style>
+
 <h1> 歡迎來到美食推薦網站 </h1>
  <!-- 001 -->
  <!-- 001 -->
