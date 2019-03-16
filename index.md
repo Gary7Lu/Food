@@ -25,6 +25,8 @@
 
 
 <h3 class="green-text">    Breakfast   </h3>
+
+<h5>點即圖片</h5>
     <a href="https://gary7lu.github.io/Breakfast/">
  <img id="comp-ja6kq5fb3imgimage" style="width: 560px; height: 280px;" data-type="image"  src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" title="了解更多..."></a>
 
@@ -32,6 +34,8 @@
 
 
 <h3 class="dodger-blue-text">   Lunch & Dinner   </h3>
+
+<h5>點即圖片</h5>
     <a href="https://gary7lu.github.io/Cuisine/">
  <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px;" data-type="image" src="https://static.wixstatic.com/media/3053efb8cad14b2188b48df41aa303cf.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Outside%20Dinner.webp" title="了解更多..."></a>
 
@@ -39,6 +43,8 @@
 
 
 <h3 class="purple-text">      Dessert   </h3>
+
+<h5>點即圖片</h5>
     <a href="https://gary7lu.github.io/Dessert/"> 
   <img id="comp-ja6kq5fbimgimage" style="width: 560px; height: 280px;" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" title="了解更多..."></a>
 
@@ -60,5 +66,5 @@
  
 <h1>   <!--00-->  </h1>
 
-<p>Note that there are some photos from <a href="https://www.wix.com/"> wix </a></p>
+<p>Note that there are some photos from  <a href="https://www.wix.com/"> wix </a></p>
 
