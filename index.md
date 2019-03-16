@@ -60,5 +60,5 @@
  
 <h1>   <!--00-->  </h1>
 
-<p>Note that there are some photos from <a href="https://www.wix.com/">wix</a></p>
+<p>Note that there are some photos from <a href="https://www.wix.com/"> wix </a></p>
 
