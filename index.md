@@ -24,7 +24,7 @@
 <h1>   <!--00-->  </h1>
 
 
-<h3 class="green-text">    Breakfast   </h3>
+<h2 class="green-text">    Breakfast   </h2>
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Breakfast/">
@@ -33,7 +33,7 @@
 <h1>   <!--00-->  </h1>
 
 
-<h3 class="dodger-blue-text">   Lunch & Dinner   </h3>
+<h2 class="dodger-blue-text">   Lunch & Dinner   </h2>
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Cuisine/">
@@ -42,7 +42,7 @@
 <h1>   <!--00-->  </h1>
 
 
-<h3 class="purple-text">      Dessert   </h3>
+<h2 class="purple-text">      Dessert   </h2>
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Dessert/"> 
@@ -50,7 +50,7 @@
 
 <h1>   <!--00-->  </h1>
 
-<h2>    美食網站 相關連結  </h2>
+<h1>    美食網站 相關連結  </h1>
 
 <h1>   <!--00-->  </h1>
 
