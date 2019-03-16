@@ -1,17 +1,17 @@
 <html>
  
-
- <style>
-  
+<style>
+ 
   .green-text {
     color:#00FF00;
   }
   .dodger-blue-text {
     color:#1E90FF ;
   }
-  .yellow-text {
-    color:#ffff00;
-}
+  .purple-text {
+    color:#ff00ff;
+  }
+  
 </style>
 
 
@@ -34,13 +34,14 @@
  <!-- 003 -->
  <!-- 003 -->
  <!--00-->
-<h3 class="yellow-text">      Dessert   </h3>
+<h3 class="purple-text">      Dessert   </h3>
     <a href="https://gary7lu.github.io/Dessert/"> 
   <img id="comp-ja6kq5fbimgimage" style="width: 560px; height: 280px;" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" title="了解更多..."></a>
 
+<h1>
 
-<!-- 01 -->
-<!-- 01 -->
+
+</h1>
 <h2>    美食網站 相關連結  </h2>
 
 <!--00-->
