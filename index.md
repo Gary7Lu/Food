@@ -27,7 +27,7 @@
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Breakfast/">
- <img id="comp-ja6kq5fb3imgimage" style="width: 560px; height: 280px;" data-type="image"  src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" title="了解更多..."></a><p>
+ <img id="comp-ja6kq5fb3imgimage" style="width: 560px; height: 280px;object-fit: cover;" data-type="image"  src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" title="了解更多..."></a><p>
 
 
 
