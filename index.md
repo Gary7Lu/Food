@@ -27,7 +27,7 @@
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Breakfast/">
- <img id="comp-ja6kq5fb3imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image"  src="https://static.wixstatic.com/media/01644db689fb4d349635ef847be71017.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Couple%20in%20a%20Kitchen.webp" title="了解更多..."></a><p>
+ <img id="comp-ja6kq5fb3imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image"  src="https://2.bp.blogspot.com/-jljz2UUshRo/XKLFtDMrQMI/AAAAAAAAAWM/xOO-zSwfSCofQApLzc6oRJfaFtj00MQlACLcBGAs/s320/%25E6%2593%25B7%25E5%258F%25961.PNG" title="了解更多..."></a><p>
 
 
 
@@ -36,14 +36,14 @@
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Cuisine/">
- <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://2.bp.blogspot.com/-jljz2UUshRo/XKLFtDMrQMI/AAAAAAAAAWM/xOO-zSwfSCofQApLzc6oRJfaFtj00MQlACLcBGAs/s320/%25E6%2593%25B7%25E5%258F%25961.PNG" title="了解更多..."></a><p>
+ <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://3.bp.blogspot.com/-BdT7TwQurbM/XKLFuIXp_FI/AAAAAAAAAWU/eRMr-iAOBU0_ahMNro_1DYUrBtfb6mc1ACLcBGAs/s320/%25E6%2593%25B7%25E5%258F%25962.PNG" title="了解更多..."></a><p>
 
 
 <h2 class="purple-text">      Dessert   </h2>
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Dessert/"> 
-  <img id="comp-ja6kq5fbimgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://static.wixstatic.com/media/a97347d205194af6b032e1efa1ade4b6.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Making%20Chocolates.webp" title="了解更多..."></a><p>
+  <img id="comp-ja6kq5fbimgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://3.bp.blogspot.com/-yFyMuS74gNk/XKLFuFEwA1I/AAAAAAAAAWQ/XKPIUNp0QJMJAf2lsKoPu1v1eJULP7JGwCLcBGAs/s320/%25E6%2593%25B7%25E5%258F%25963.PNG" title="了解更多..."></a><p>
 
 
 
