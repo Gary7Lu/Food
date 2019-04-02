@@ -36,9 +36,7 @@
 
 <h5>點擊圖片進入</h5>
     <a href="https://gary7lu.github.io/Cuisine/">
- <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://static.wixstatic.com/media/3053efb8cad14b2188b48df41aa303cf.jpg/v1/fill/w_280,h_280,al_c,q_80,usm_0.66_1.00_0.01/Outside%20Dinner.webp" title="了解更多..."></a><p>
-
-
+ <img id="comp-ja6kq5fb1imgimage" style="width: 560px; height: 280px; object-fit: cover;" data-type="image" src="https://2.bp.blogspot.com/-jljz2UUshRo/XKLFtDMrQMI/AAAAAAAAAWM/xOO-zSwfSCofQApLzc6oRJfaFtj00MQlACLcBGAs/s320/%25E6%2593%25B7%25E5%258F%25961.PNG" title="了解更多..."></a><p>
 
 
 <h2 class="purple-text">      Dessert   </h2>
