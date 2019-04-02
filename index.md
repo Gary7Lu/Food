@@ -52,12 +52,12 @@
 
 <p class="blue-text">   Twitter   </p>
 <a href="https://twitter.com/twitterfood"> 
- <img id="comp-imw36oii1imageimageimage" alt="Twitter Social Icon" data-type="image" src="https://static.wixstatic.com/media/9c4b521dd2404cd5a05ed6115f3a0dc8.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/9c4b521dd2404cd5a05ed6115f3a0dc8.webp"     style="width: 24px; height: 24px; "></a><p>
+ <img id="comp-imw36oii1imageimageimage" alt="Twitter Social Icon" data-type="image" src="https://4.bp.blogspot.com/-s1H9_28rDh0/XKLHu1Jg6RI/AAAAAAAAAWk/NYnTyKwJbW8NoH-E2bn0MeCtGp7KazCLwCLcBGAs/s1600/%25E6%2593%25B7%25E5%258F%25964.PNG"     style="width: 24px; height: 24px; "></a><p>
 
 
 <p class="pink-text">   Instrgram   </p>
 <a href ="https://www.instagram.com/love_food/"> 
- <img id="comp-imw36oii0imageimageimage" alt="Instagram Social Icon" data-type="image" src="https://static.wixstatic.com/media/8d6893330740455c96d218258a458aa4.png/v1/fill/w_24,h_24,al_c,q_80,usm_0.66_1.00_0.01/8d6893330740455c96d218258a458aa4.webp" style="width: 24px; height: 24px; "></a><p>
+ <img id="comp-imw36oii0imageimageimage" alt="Instagram Social Icon" data-type="image" src="https://3.bp.blogspot.com/-jYQR2BUbF3c/XKLHvFpCRhI/AAAAAAAAAWo/q_PP03fuktEFjRxwBZ2wX4JZRFxmc5t8ACLcBGAs/s1600/%25E6%2593%25B7%25E5%258F%25965.PNG" style="width: 24px; height: 24px; "></a><p>
  
 
 <h3> 本網部分圖片來自 : <a href="https://www.wix.com/"> wix </a></h3>
